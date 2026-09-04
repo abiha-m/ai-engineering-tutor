@@ -1,0 +1,9 @@
+streamlit==1.29.0
+openai==1.6.1
+python-dotenv==1.0.0
+chromadb==0.4.22
+langchain==0.1.0
+pypdf2==3.0.1
+pandas
+plotly==5.18.0
+tiktoken==0.5.2
