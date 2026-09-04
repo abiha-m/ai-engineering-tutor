@@ -160,7 +160,7 @@ Using a structured output format makes the responses easier to validate, parse, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
